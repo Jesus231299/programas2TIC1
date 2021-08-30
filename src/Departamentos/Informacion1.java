@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Informacion1 {
 Scanner leer=new Scanner(System.in);  
     
+    //version 2.1 del reposaitorio en git
+
     public String pideUbicacion(){
     System.out.println("Ingresa la ubucacion");
     String u=leer.next();

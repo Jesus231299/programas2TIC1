@@ -4,7 +4,7 @@ import Departamentos.Informe1;
 public class Administracion1 {
     
     
-    //version 1.0 del reposaitorio en git
+    //version 2.1 del reposaitorio en git
     
 String ubica;
 double cantidad;
